@@ -1,6 +1,6 @@
 {
     "name": "wp_theme_starter",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "The best package in the world",
     "main": "index.js",
     "scripts": {
@@ -8,16 +8,17 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/myname/mypackage.git"
+      "url": "git+https://github.com/mediol/wp-theme-starter.git"
     },
     "keywords": [
-      "my",
-      "package"
+      "wp",
+      "starter",
+      "wp theme"
     ],
-    "author": "me",
+    "author": "mediol",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/myname/mypackage/issues"
+      "url": "https://github.com/mediol/wp-theme-starter.git/issues"
     },
-    "homepage": "https://github.com/myname/mypackage#readme"
+    "homepage": "https://github.com/mediol/wp-theme-starter.git#readme"
   }
