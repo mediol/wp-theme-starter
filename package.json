@@ -1,0 +1,23 @@
+{
+    "name": "wp_theme_starter",
+    "version": "1.0.0",
+    "description": "The best package in the world",
+    "main": "index.js",
+    "scripts": {
+      "test": "command for testing package"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/myname/mypackage.git"
+    },
+    "keywords": [
+      "my",
+      "package"
+    ],
+    "author": "me",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/myname/mypackage/issues"
+    },
+    "homepage": "https://github.com/myname/mypackage#readme"
+  }
