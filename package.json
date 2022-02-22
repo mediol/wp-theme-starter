@@ -1,6 +1,6 @@
 {
     "name": "wp_theme_starter",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "The best package in the world",
     "main": "index.js",
     "scripts": {
