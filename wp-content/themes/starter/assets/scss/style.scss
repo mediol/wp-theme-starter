@@ -1,0 +1,13 @@
+/* GLOBAL STYLES */
+
+@import 'fonts';
+
+.container {
+    width: 100%;
+    padding: 0 25px;
+    
+    @media screen and (min-width: 768px) {
+        width: calc(1570vw / 19.2);
+        margin: 0 auto;
+    }
+}
